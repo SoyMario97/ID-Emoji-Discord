@@ -1,4 +1,4 @@
-> ID de los Emojis de discord en el archivo `emoji.json`
+> ID de los emojis de Discord en el archivo `emoji.json`
 
 ### Contacto
 Discord: [YoSoyMario#0319](https://DiscordApp.com/users/433039910077988874)
